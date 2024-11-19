@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        yellow: '#efc603',
+        yellow: '#2B4C69',
       },
       keyframes: {
         typing: {

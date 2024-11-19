@@ -1,6 +1,6 @@
 # Diego Gutierrez Resume Website
 
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true 'ReactJS Resume Website Template')
+![ReactJS Resume Website Template](resume-screenshot.png?raw=true 'ReactJS Resume Website Template')
 
 <div align="center">
 
